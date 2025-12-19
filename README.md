@@ -1,2 +1,1 @@
-# tamimmansuri
-Terraform Public Repository With ReadMe
+Repository Owner : tamimmansuri
